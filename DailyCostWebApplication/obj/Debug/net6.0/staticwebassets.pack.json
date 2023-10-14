@@ -1,0 +1,257 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\images\\474b4504-7e74-41ca-8794-2f3320effb82-invoice1.png",
+      "PackagePath": "staticwebassets\\images\\474b4504-7e74-41ca-8794-2f3320effb82-invoice1.png"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\images\\cost.png",
+      "PackagePath": "staticwebassets\\images\\cost.png"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\images\\employee.png",
+      "PackagePath": "staticwebassets\\images\\employee.png"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\images\\image1.jpg",
+      "PackagePath": "staticwebassets\\images\\image1.jpg"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\images\\invoice.png",
+      "PackagePath": "staticwebassets\\images\\invoice.png"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\images\\no-image.png",
+      "PackagePath": "staticwebassets\\images\\no-image.png"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\js\\MyScripts.js",
+      "PackagePath": "staticwebassets\\js\\MyScripts.js"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.js"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\lib\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "D:\\5th sem\\WAD\\project\\DailyCostWebApplication-main\\DailyCostWebApplication\\wwwroot\\myhtml.html",
+      "PackagePath": "staticwebassets\\myhtml.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.DailyCostWebApplication.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.DailyCostWebApplication.props",
+      "PackagePath": "build\\DailyCostWebApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.DailyCostWebApplication.props",
+      "PackagePath": "buildMultiTargeting\\DailyCostWebApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.DailyCostWebApplication.props",
+      "PackagePath": "buildTransitive\\DailyCostWebApplication.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
